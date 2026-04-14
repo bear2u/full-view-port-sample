@@ -4,9 +4,7 @@
 
 ## 데모 영상
 
-동작 화면 녹화: **[sample.mov](./sample.mov)**
-
-> GitHub 등 원격 저장소에서 README를 볼 때는 위 링크로 파일 페이지로 이동한 뒤 재생하거나 내려받을 수 있습니다. 로컬에서는 IDE나 파일 탐색기에서 `sample.mov`를 직접 열어도 됩니다.
+<video src="./sample.mp4" controls playsinline width="100%"></video>
 
 ## 사용한 기술·도구
 
